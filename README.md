@@ -10,7 +10,7 @@ w3cSchool
 
 * **asdfasd**
 
-明天重温servlet
+明天重温servlet<br>
 
-[android 动画](https://github.com/sd6352051/NiftyNotification)
-[ui库](http://www.cnblogs.com/opendigg/p/6795429.html)
+[ui库](http://www.cnblogs.com/opendigg/p/6795429.html)<br>
+[Android学习笔记](http://blog.csdn.net/solo_talk/article/category/6267390/3)
